@@ -1,0 +1,20 @@
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\bin\Debug\CARO_DuongCongNhat.exe.config
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\bin\Debug\CARO_DuongCongNhat.exe
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\bin\Debug\CARO_DuongCongNhat.pdb
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.csproj.AssemblyReference.cache
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.frmNhat.resources
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.Properties.Resources.resources
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.csproj.GenerateResource.cache
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.csproj.CoreCompileInputs.cache
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.exe
+F:\laptrinhwindows\CARO_DuongCongNhat\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.pdb
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.csproj.AssemblyReference.cache
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.frmNhat.resources
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.Properties.Resources.resources
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.csproj.GenerateResource.cache
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.csproj.CoreCompileInputs.cache
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.exe
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\obj\Debug\CARO_DuongCongNhat.pdb
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\bin\Debug\CARO_DuongCongNhat.exe.config
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\bin\Debug\CARO_DuongCongNhat.exe
+F:\laptrinhwindows\CARO_DuongCongNhat - Copy\CARO_DuongCongNhat\bin\Debug\CARO_DuongCongNhat.pdb
